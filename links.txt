@@ -1,0 +1,44 @@
+⚔️ Multi-Language Adventure & Practice
+These platforms often support multiple languages and use a fantasy or competitive structure.
+
+CodeCombat: A fantasy adventure game that teaches Python, JavaScript, CoffeeScript, and Lua. Great for beginners, especially children and teens, but fun for all.
+
+CodinGame: Offers puzzles, challenges, and coding contests in over 25 programming languages (including JavaScript, Ruby, Python, and PHP). It's designed to enhance your skills and can be very competitive.
+
+Codewars: A gamified platform that uses "kata" (coding challenges) to help you train in a huge variety of languages (Python, Java, JavaScript, Ruby, etc.). You earn ranks and compare your solutions with others.
+
+CheckiO (and Empire of Code): Strategy games that focus on Python and JavaScript skills through missions and challenges. Empire of Code is a space strategy game.
+
+CodeMonkey: An online platform that teaches coding using CoffeeScript and Python. It's often aimed at younger learners (ages 5-14) but is a great starting point for fundamentals.
+
+Tynker: Offers courses in block-based coding, HTML, CSS, JavaScript, Python, and Java, often through building projects and games.
+
+Codedex.io: Offers courses in block-based coding, HTML, CSS, JavaScript, Python, and Java, often through building projects and games.
+
+💻 Web Development Focus
+These games concentrate on learning specific web languages like CSS and JavaScript.
+
+CSS Diner: A simple but fun game with 32 levels to teach you the basics of CSS selectors.
+
+Flexbox Froggy: Teaches you how to use CSS Flexbox (for laying out web page elements) by guiding a frog to a lilypad.
+
+Flexbox Defense: A tower defense game that teaches CSS Flexbox by positioning defensive towers.
+
+Elevator Saga: Challenges your JavaScript skills by having you program the movement and logic of elevators to efficiently transport people.
+
+Untrusted: A meta-JavaScript adventure game where you must modify the game's JavaScript source code to solve puzzles and progress through levels.
+
+💡 Fundamentals & Specific Tools
+These games are great for core concepts or mastering a specific tool.
+
+Blockly Games: A series of simple, block-based programming games designed to teach core programming principles to beginners.
+
+Lightbot: A puzzle game that teaches programming logic, like sequencing, procedures, and loops, using a simple visual interface.
+
+Ruby Warrior: Teaches the Ruby programming language by having you control a warrior climbing a tower.
+
+VIM Adventures: Teaches the commands of the Vim text editor through a classic adventure game interface.
+
+SQL Murder Mystery: A fun way to practice your SQL database querying skills by solving a virtual murder case.
+
+Screeps: Described as an "MMO Sandbox Strategy Game for Programmers," where you must write JavaScript (or TypeScript) code to control your units in a persistent world.
